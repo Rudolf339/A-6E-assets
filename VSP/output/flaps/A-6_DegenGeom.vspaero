@@ -1,0 +1,25 @@
+Sref = 46.492500 
+Cref = 3.635000 
+Bref = 14.676000 
+X_cg = 2.250000 
+Y_cg = 0.000000 
+Z_cg = 0.000000 
+Mach = 0.2, 0.5, 0.9 
+AoA = -5.000000, -0.625000, 3.750000, 8.125000, 12.500000, 16.875000, 21.250000, 25.625000, 30.000000 
+Beta = 0.000000 
+Vinf = 100.000000 
+Rho = 0.002377 
+ReCref = 10000000.000000 
+ClMax = -1.000000 
+MaxTurningAngle = -1.000000 
+Symmetry = NO 
+FarDist = -1.000000 
+NumWakeNodes = 0 
+WakeIters = 3 
+NumberOfControlGroups = 1 
+flaps
+Wing_Surf0_flap,Wing_Surf1_flap
+1, -1
+40
+Preconditioner = Matrix 
+Karman-Tsien Correction = Y 

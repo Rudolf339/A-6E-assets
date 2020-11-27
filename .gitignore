@@ -1,0 +1,11 @@
+# backup files
+*.*~
+*~
+
+# VSP files other than stab, lod and history and vspaero
+*.adb
+*.adb.cases
+*.fem
+*.group.*
+*.polar
+.vsptime
